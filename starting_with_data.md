@@ -40,9 +40,24 @@ Answer:
 
 Question 3: 
 
+Which product has the highest sentiment score?
+
+
 SQL Queries:
 
+SELECT name, MAX(sentimentscore) AS Highest_sentiment_score
+
+FROM products
+
+WHERE sentimentscore IS NOT NULL
+
+GROUP BY sentimentscore, name
+
+ORDER BY sentimentscore DESC
+
 Answer:
+
+<img width="544" alt="image" src="https://github.com/mosesaligbe/SQL-Project/assets/30363635/68d18b84-93a8-4a09-9e36-d62541a3124f">
 
 
 
