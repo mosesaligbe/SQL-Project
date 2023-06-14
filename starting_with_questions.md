@@ -53,11 +53,13 @@ Answer:
 
 
 SQL Queries:
+<img width="1012" alt="image" src="https://github.com/mosesaligbe/SQL-Project/assets/30363635/7e62ca44-18a1-48ac-a5df-7d5db679b7f4">
 
 
 
 Answer:
 
+<img width="740" alt="image" src="https://github.com/mosesaligbe/SQL-Project/assets/30363635/0e0343f3-5d46-441f-9c8b-815be041202c">
 
 
 
@@ -65,10 +67,13 @@ Answer:
 **Question 5: Can we summarize the impact of revenue generated from each city/country?**
 
 SQL Queries:
+<img width="795" alt="image" src="https://github.com/mosesaligbe/SQL-Project/assets/30363635/443399c4-5165-4703-abb7-3d3db13e2acb">
 
 
 
 Answer:
+<img width="485" alt="image" src="https://github.com/mosesaligbe/SQL-Project/assets/30363635/0ff702ac-c4a9-4c4c-ba84-7f461754a860">
+
 
 
 
