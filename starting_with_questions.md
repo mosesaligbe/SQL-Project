@@ -21,9 +21,13 @@ Answer:
 
 SQL Queries:
 
+<img width="693" alt="image" src="https://github.com/mosesaligbe/SQL-Project/assets/30363635/d2cb30d5-87fd-4b37-bf26-70426c35688f">
+
 
 
 Answer:
+<img width="494" alt="image" src="https://github.com/mosesaligbe/SQL-Project/assets/30363635/ce6c88ec-f4c0-4f09-878a-4429fd6e2a67">
+
 
 
 
@@ -33,11 +37,14 @@ Answer:
 
 
 SQL Queries:
+<img width="697" alt="image" src="https://github.com/mosesaligbe/SQL-Project/assets/30363635/0efa6877-d03f-4bb8-b005-99c9c678a721">
+
 
 
 
 Answer:
 
+<img width="697" alt="image" src="https://github.com/mosesaligbe/SQL-Project/assets/30363635/f2254ce2-2ab2-4d66-ba62-c0f5433cfb8a">
 
 
 
