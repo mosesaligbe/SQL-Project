@@ -5,11 +5,7 @@ Answer the following questions and provide the SQL queries used to find the answ
 
 
 SQL Queries:
-SELECT SUM(totaltransactionrevenue) AS highest_level_of_transaction, currencycode, country, city, timeonsite
-FROM all_sessions
-WHERE totaltransactionrevenue IS NOT NULL AND city != 'not available in demo dataset'
-GROUP BY totaltransactionrevenue, currencycode,city, country, timeonsite
-ORDER BY totaltransactionrevenue DESC
+<img width="988" alt="image" src="https://github.com/mosesaligbe/SQL-Project/assets/30363635/605107ad-9543-4b58-946b-644ea2823edd">
 
 
 Answer:
