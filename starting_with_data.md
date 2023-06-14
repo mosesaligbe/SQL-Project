@@ -19,9 +19,22 @@ Answer:
 
 Question 2: 
 
+what date was the highest totaltransactionrevenue recorded ?
+
+
 SQL Queries:
 
+SELECT date, totaltransactionrevenue
+
+FROM all_sessions
+
+WHERE totaltransactionrevenue IS NOT NULL
+
+ORDER BY totaltransactionrevenue DESC
+
 Answer:
+
+<img width="320" alt="image" src="https://github.com/mosesaligbe/SQL-Project/assets/30363635/79b4ee3d-c7e3-47d7-bf12-d6140a172458">
 
 
 
