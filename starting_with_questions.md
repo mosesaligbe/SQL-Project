@@ -5,10 +5,17 @@ Answer the following questions and provide the SQL queries used to find the answ
 
 
 SQL Queries:
-
+SELECT SUM(totaltransactionrevenue) AS highest_level_of_transaction, currencycode, country, city, timeonsite
+FROM all_sessions
+WHERE totaltransactionrevenue IS NOT NULL AND city != 'not available in demo dataset'
+GROUP BY totaltransactionrevenue, currencycode,city, country, timeonsite
+ORDER BY totaltransactionrevenue DESC
 
 
 Answer:
+<img width="778" alt="image" src="https://github.com/mosesaligbe/SQL-Project/assets/30363635/d6866e97-d17c-46ca-9582-fe45394f6199">
+
+
 
 
 
